@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="myGroup.Client.main" target="1.8" />
+      <module name="myGroup.Client.test" target="1.8" />
+      <module name="myGroup.Model.main" target="1.8" />
+      <module name="myGroup.Model.test" target="1.8" />
+      <module name="myGroup.Server.main" target="1.8" />
+      <module name="myGroup.Server.test" target="1.8" />
+      <module name="myGroup.Services.main" target="1.8" />
+      <module name="myGroup.Services.test" target="1.8" />
+      <module name="myGroup.Triatlon.main" target="1.8" />
+      <module name="myGroup.Triatlon.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

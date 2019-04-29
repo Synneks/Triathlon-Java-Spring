@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Networking/Triatlon.Networking.iml" filepath="$PROJECT_DIR$/.idea/modules/Networking/Triatlon.Networking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Client/myGroup.Client.iml" filepath="$PROJECT_DIR$/.idea/modules/Client/myGroup.Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Client/myGroup.Client.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Client/myGroup.Client.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Client/myGroup.Client.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Client/myGroup.Client.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Model/myGroup.Model.iml" filepath="$PROJECT_DIR$/.idea/modules/Model/myGroup.Model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Model/myGroup.Model.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Model/myGroup.Model.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Model/myGroup.Model.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Model/myGroup.Model.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Server/myGroup.Server.iml" filepath="$PROJECT_DIR$/.idea/modules/Server/myGroup.Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Server/myGroup.Server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Server/myGroup.Server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Server/myGroup.Server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Server/myGroup.Server.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Services/myGroup.Services.iml" filepath="$PROJECT_DIR$/.idea/modules/Services/myGroup.Services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Services/myGroup.Services.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Services/myGroup.Services.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Services/myGroup.Services.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Services/myGroup.Services.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myGroup.Triatlon.iml" filepath="$PROJECT_DIR$/.idea/modules/myGroup.Triatlon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myGroup.Triatlon.main.iml" filepath="$PROJECT_DIR$/.idea/modules/myGroup.Triatlon.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myGroup.Triatlon.test.iml" filepath="$PROJECT_DIR$/.idea/modules/myGroup.Triatlon.test.iml" />
+    </modules>
+  </component>
+</project>

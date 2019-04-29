@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:util="http://www.springframework.org/schema/util"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util.xsd">
+
+    <bean id="userBean" class="model.User">
+        <constructor-arg index="0" value="Ion"/>
+        <constructor-arg index="1" value="Ionel"/>
+        <constructor-arg index="2" value="Ionut"/>
+    </bean>
+
+    <bean id="concurentBean" class="model.Concurent">
+        <constructor-arg index="0" value="Ana"/>
+        <constructor-arg index="1" value="20"/>
+    </bean>
+
+</beans>
